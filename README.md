@@ -78,6 +78,7 @@ The setup-task branch was then pushed to GitHub, and a Pull Request was created 
 
 
 ## Folder Structure
+```bash
 solar-challenge-week0/
 │
 ├── .github/
@@ -106,5 +107,5 @@ solar-challenge-week0/
 ├── .gitignore
 ├── README.md 
 └── requirements.txt
-
+```
 
