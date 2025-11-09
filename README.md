@@ -1,4 +1,4 @@
-# Solar Challenge Week 0 - Environement & Git Setup
+# Solar Challenge Week 0 - Environment & Git Setup
 ## Overview
 
 This repository was created as part of **10 Academy’s Solar Challenge (Week 0)** to practice professional Git workflows, environment setup, and project structuring before beginning data-related tasks.
