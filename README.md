@@ -214,4 +214,4 @@ solar-challenge-week0/
 ```
 
 Live Dashboard
-Streamlit App: https://your-streamlit-link-here.streamlit.app
+Streamlit App: https://solar-data-disc0.streamlit.app/
