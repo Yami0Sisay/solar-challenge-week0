@@ -213,3 +213,5 @@ solar-challenge-week0/
 └── requirements.txt
 ```
 
+Live Dashboard
+Streamlit App: https://your-streamlit-link-here.streamlit.app
